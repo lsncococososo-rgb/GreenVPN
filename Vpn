@@ -5,3 +5,4 @@
 #subscription-userinfo: upload=0; download=0; total=107374292918240; expire=0
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.1:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+vless://71cb5b07-5db6-4c20-a4fc-e94a5f67ecd1@pl-4.gnodes.club:443?security=reality&alpn=h2&encryption=none&pbk=sb745m5dSwW5gufEZVOUEEH0J00CKFXnfPzeYTxv-Q4&headerType=none&fp=firefox&type=tcp&sni=browser.yandex.com&sid=c825b95ebb696401#%F0%9F%87%B5%F0%9F%87%B1%20Bober%20Kurwa%20%F0%9F%90%BF%EF%B8%8F
